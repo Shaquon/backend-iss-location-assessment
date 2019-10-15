@@ -1,4 +1,3 @@
-<img align=left src="map.gif" width=300/><br clear=left>
 ## Where in the world is the International Space Station (ISS) ?
 
 ### Objectives
