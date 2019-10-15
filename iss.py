@@ -4,12 +4,10 @@ __author__ = 'Shaquon with Swav and Mark'
 
 import json
 import turtle
-import urllib
 import time
-import sys
-print(sys.executable)
-
 import requests
+
+
 def data_collector():
     crew = requests.get('http://api.open-notify.org/astros.json')
     dictionary = crew.text
